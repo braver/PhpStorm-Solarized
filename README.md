@@ -9,6 +9,20 @@ Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonove
 Adapted for Jetbrains PhpStorm by:
 Koen Lageveen <info@koenlageveen.nl>
 
+See the [Solarized homepage](http://ethanschoonover.com/solarized) for screenshots, 
+details and colorscheme versions for Vim, Mutt, popular terminal emulators and 
+other applications.
+
+Downloads
+---------
+
+If you have come across this page via github please visit the main [Solarized homepage](http://ethanschoonover.com/solarized)
+The original [Solarized repository] has many more themes and a number of [test files].
+
+[Solarized homepage]:   http://ethanschoonover.com/solarized
+[Solarized repository]: https://github.com/altercation/solarized
+[test files]: https://github.com/altercation/solarized/tree/master/utils/tests
+
 Installation
 ------------
 
