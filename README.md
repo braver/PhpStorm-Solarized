@@ -38,3 +38,13 @@ Note About Fonts
 -----------------
 Unfortunately, font settings are included in the color settings files. It is currently set to Consolas.
 You should probably modify these in `Preferences | Editor | Colors & Fonts | Font` after adding the color schemes.
+
+Screenshots
+-----------------
+Screenshots of PhpStorm Solarized in action:
+* [Dark - HTML](https://github.com/braver/PhpStorm-Solarized/img/dark-html.png)
+* [Dark - JS](https://github.com/braver/PhpStorm-Solarized/img/dark-js.png)
+* [Dark - PHP](https://github.com/braver/PhpStorm-Solarized/img/dark-php.png)
+* [Light - HTML](https://github.com/braver/PhpStorm-Solarized/img/light-html.png)
+* [Light - JS](https://github.com/braver/PhpStorm-Solarized/img/light-js.png)
+* [Light - PHP](https://github.com/braver/PhpStorm-Solarized/img/light-php.png)
