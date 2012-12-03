@@ -42,9 +42,11 @@ You should probably modify these in `Preferences | Editor | Colors & Fonts | Fon
 Screenshots
 -----------------
 Screenshots of PhpStorm Solarized in action:
-* [Dark - HTML](https://github.com/braver/PhpStorm-Solarized/img/dark-html.png)
-* [Dark - JS](https://github.com/braver/PhpStorm-Solarized/img/dark-js.png)
-* [Dark - PHP](https://github.com/braver/PhpStorm-Solarized/img/dark-php.png)
-* [Light - HTML](https://github.com/braver/PhpStorm-Solarized/img/light-html.png)
-* [Light - JS](https://github.com/braver/PhpStorm-Solarized/img/light-js.png)
-* [Light - PHP](https://github.com/braver/PhpStorm-Solarized/img/light-php.png)
+![Dark](https://raw.github.com/braver/PhpStorm-Solarized/master/img/dark-php-small.png)
+![Light](https://raw.github.com/braver/PhpStorm-Solarized/master/img/light-php-small.png)
+* [Dark - HTML](https://raw.github.com/braver/PhpStorm-Solarized/master/img/dark-html.png)
+* [Dark - JS](https://raw.github.com/braver/PhpStorm-Solarized/master/img/dark-js.png)
+* [Dark - PHP](https://raw.github.com/braver/PhpStorm-Solarized/master/img/dark-php.png)
+* [Light - HTML](https://raw.github.com/braver/PhpStorm-Solarized/master/img/light-html.png)
+* [Light - JS](https://raw.github.com/braver/PhpStorm-Solarized/master/img/light-js.png)
+* [Light - PHP](https://raw.github.com/braver/PhpStorm-Solarized/master/img/light-php.png)
