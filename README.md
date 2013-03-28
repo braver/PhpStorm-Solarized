@@ -29,6 +29,7 @@ Installation
 
 1.  Copy `Solarized Dark.xml` and `Solarized Light.xml` to your PhpStorm preferences:
 On Windows it is in `C:\Users\<username>\.WebIde50\config\colors`.
+On Mac it is in `~/Library/Preferences/WebIde50/colors`.
         
 2. Restart PhpStorm
 
