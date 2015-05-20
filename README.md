@@ -38,6 +38,14 @@ Installation
 
 3. Go to `Preferences | Editor | Colors & Fonts` and select one of the new color themes.
 
+### Option 2: Import settings
+
+1. Clone (or download) this repository.
+2. Go to `File | Import Settings` select the directory and click `Choose`.
+3. Check `Color schemes` and press `Ok`.
+4. Restart PhpStorm.
+5. Go to `Preferences | Editor | Colors & Fonts` and select one of the new color themes.
+
 Note About Fonts
 -----------------
 Unfortunately, font settings are included in the color settings files. It is currently set to Consolas.
