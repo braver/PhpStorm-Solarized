@@ -7,7 +7,7 @@ Solarized Colorscheme for Jetbrains PhpStorm 5.0
 Original Solarized color scheme developed by Ethan Schoonover <es@ethanschoonover.com>
 
 Adapted for Jetbrains PhpStorm by:
-Koen Lageveen <info@koenlageveen.nl>
+Koen Lageveen <https://github.com/braver>
 
 See the [Solarized homepage](http://ethanschoonover.com/solarized) for screenshots, 
 details and colorscheme versions for Vim, Mutt, popular terminal emulators and 
